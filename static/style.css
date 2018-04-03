@@ -1,6 +1,7 @@
 .IoTButton {
-	height: 45vh;
-	width: 45vw;
+	height: 48vh;
+	width: 48vw;
+	font-size: 40px;
 	position: absolute;
 }
 
